@@ -63,6 +63,8 @@ RSS Feeds (800+ articles)
 - arXiv cs.LG (Machine Learning)
 
 ## Project Structure
+
+```
 robotics_agent/
 ├── agents/
 │   ├── news_collector.py     # Pulls articles from RSS feeds
@@ -77,6 +79,7 @@ robotics_agent/
 ├── main.py                   # Orchestrates the full pipeline
 ├── requirements.txt
 └── .env.example              # Template for required environment variables
+```
 
 ## Setup
 
