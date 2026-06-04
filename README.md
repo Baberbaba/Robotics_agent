@@ -32,8 +32,8 @@ This agent is the first version of that system.
 | Secret Management | GitHub Secrets + python-dotenv |
 
 ## Pipeline
----
 
+```
 RSS Feeds (800+ articles)
          ↓
   Keyword Pre-filter
@@ -46,8 +46,7 @@ RSS Feeds (800+ articles)
   SQLite Database
          ↓
   Telegram Briefing 
-  
-  ---
+```
 
 ## Sources Monitored
 
